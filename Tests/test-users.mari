@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+
+<MarInfo>
+<name>test-users</name>
+<type>TEST</type>
+<projectRoot>demo</projectRoot>
+<optimized>true</optimized>
+<deployInfo>
+    <PrimaryAsset>Tests/test-users.tst</PrimaryAsset>
+    <Configuration>Configs/project.config</Configuration>
+    <StagingDocument>Tests/StagingDocs/Run1User1Cycle.stg</StagingDocument>
+    <CoordinatorServerName>Coordinator@Default</CoordinatorServerName>
+</deployInfo>
+</MarInfo>
